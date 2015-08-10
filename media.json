@@ -1,0 +1,132 @@
+{
+    "movies": [
+        {
+            "title": "The Goonies", 
+            "description": "In order to save their home from foreclosure, a group of misfits set out to find a pirate's ancient treasure.",
+            "rating": "PG",
+            "pic_url": "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Goonies.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=pWgc8Ute2tU",
+            "imdb_url": "http://www.imdb.com/title/tt0089218/",
+            "duration": 114,
+            "year": 1985
+        },
+        {
+            "title": "3:10 To Yuma", 
+            "description": "A small-time rancher agrees to hold a captured outlaw who's awaiting a train to go to court in Yuma. A battle of wills ensues as the outlaw tries to psych out the rancher.",
+            "rating": "R",
+            "pic_url": "https://upload.wikimedia.org/wikipedia/en/2/27/310_to_Yuma_%282007_film%29.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=ZeroJ1BK6GQ",
+            "imdb_url": "http://www.imdb.com/title/tt0381849/",
+            "duration": 122,
+            "year": 2007
+        },
+        {
+            "title": "Snatch", 
+            "description": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+            "rating": "R",
+            "pic_url": "http://t3.gstatic.com/images?q=tbn:ANd9GcT99CTVO4nyRGm0UcmDLo7Gv_InmxIoJkVlCDB1pdHho_vYjpig",
+            "trailer_url": "https://www.youtube.com/watch?v=Q8jbt0wBkMI",
+            "imdb_url": "http://www.imdb.com/title/tt0208092/",
+            "duration": 102,
+            "year": 2000
+        },
+        {
+            "title": "Rushmore", 
+            "description": "The extracurricular king of Rushmore preparatory school is put on academic probation.",
+            "rating": "R",
+            "pic_url": "https://upload.wikimedia.org/wikipedia/en/4/42/Rushmoreposter.png",
+            "trailer_url": "https://www.youtube.com/watch?v=GxCNDpvGyss",
+            "imdb_url": "http://www.imdb.com/title/tt0128445/",
+            "duration": 93,
+            "year": 1998
+        },
+        {
+            "title": "Boxtrolls", 
+            "description": "A young orphaned boy raised by underground cave-dwelling trash collectors tries to save his friends from an evil exterminator. Based on the children's novel \"Here Be Monsters\" by Alan Snow.",
+            "rating": "PG",
+            "pic_url": "https://upload.wikimedia.org/wikipedia/en/d/db/The_Boxtrolls_poster.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=z3eHd87dx6M",
+            "imdb_url": "http://www.imdb.com/title/tt0787474/",
+            "duration": 96,
+            "year": 2014
+        },
+        {
+            "title": "No Country for Old Men", 
+            "description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+            "rating": "R",
+            "pic_url": "https://upload.wikimedia.org/wikipedia/en/8/8b/No_Country_for_Old_Men_poster.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=YOohAwZOSGo",
+            "imdb_url": "http://www.imdb.com/title/tt0477348/",
+            "duration": 122,
+            "year": 2007
+        }      
+    ],
+    "tv_shows": [
+        {
+            "title": "Wayward Pines",
+            "description": "A Secret Service agent goes to Wayward Pines, Idaho, in search of two federal agents who have gone missing in the bucolic town. He soon learns that he may never get out of Wayward Pines alive.",
+            "rating": "TV-14",
+            "pic_url": "https://upload.wikimedia.org/wikipedia/en/5/58/Wayward_Pines_Intertitle.png",
+            "trailer_url": "https://www.youtube.com/watch?v=RsQ9Fl0VCkk",
+            "imdb_url": "http://www.imdb.com/title/tt2618986/",
+            "network_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg",
+            "seasons": 1,
+            "duration": 60
+        },
+        {
+            "title": "House Of Cards",
+            "description": "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him.",
+            "rating": "TV-MA",
+            "pic_url": "https://upload.wikimedia.org/wikipedia/en/3/3f/House_of_Cards_title_card.png",
+            "trailer_url": "https://www.youtube.com/watch?v=ULwUzF1q5w4",
+            "imdb_url": "http://www.imdb.com/title/tt1856010/",
+            "network_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2014_logo.svg",
+            "seasons": 3,
+            "duration": 55
+        },
+        {
+            "title": "Breaking Bad",
+            "description": "A chemistry teacher diagnosed with a terminal lung cancer teams up with his former student to cook and sell crystal meth.",
+            "rating": "TV-MA",
+            "pic_url": "https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png",
+            "trailer_url": "https://www.youtube.com/watch?v=HhesaQXLuRY",
+            "imdb_url": "http://www.imdb.com/title/tt0903747/",
+            "network_url": "https://upload.wikimedia.org/wikipedia/en/2/2d/AMC_logo_2013.png",
+            "seasons": 5,
+            "duration": 47
+        },
+        {
+            "title": "The X-Files",
+            "description": "Two FBI agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained while hidden forces work to impede their efforts.",
+            "rating": "TV-MA",
+            "pic_url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Thexfiles.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=mlZIVpVNgpI",
+            "imdb_url": "http://www.imdb.com/title/tt0106179/",
+            "network_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg",
+            "seasons": 9,
+            "duration": 44
+        },
+        {
+            "title": "Cosmos",
+            "description": "A documentary series that explores how we discovered the laws of nature and found our coordinates in space and time.",
+            "rating": "TV-PG",
+            "pic_url": "https://upload.wikimedia.org/wikipedia/en/8/8e/Cosmos_spacetime_odyssey_titlecard.jpg",
+            "trailer_url": "https://www.youtube.com/watch?v=XFF2ECZ8m1A",
+            "imdb_url": "http://www.imdb.com/title/tt2395695/",
+            "network_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg",
+            "seasons": 1,
+            "duration": 60
+        },
+        {
+            "title": "South Park",
+            "description": "Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+            "rating": "TV-MA",
+            "pic_url": "https://upload.wikimedia.org/wikipedia/en/5/59/South_Park.png",
+            "trailer_url": "https://www.youtube.com/watch?v=WBbVeygyJhQ",
+            "imdb_url": "http://www.imdb.com/title/tt0121955/",
+            "network_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Comedy_Central_2011_Logo.svg",
+            "seasons": 18,
+            "duration": 22
+        }
+    ]
+}
